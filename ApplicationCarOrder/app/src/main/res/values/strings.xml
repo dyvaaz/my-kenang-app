@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GO-NANG</string>
+    <string name="title_activity_maps_api">Map</string>
+    <!--<string name="google_direction_api">AIzaSyA2RpQRBQeGScsLowv9OYguYU1Vz6frirs</string>-->
+    <string name="google_direction_api">AIzaSyBNGSPwhhNKpoIR78Q-tjGl4mZh5CZW_vs</string>
+    <string name="title_activity_driver_home">DriverHome</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_driver_tracking">Map</string>
+    <string name="title_activity_trip_details">Map</string>
+</resources>

@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "974659849784",
+    "firebase_url": "https://kenang-application.firebaseio.com",
+    "project_id": "kenang-application",
+    "storage_bucket": "kenang-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974659849784:android:c21e6c8c4ecb996d",
+        "android_client_info": {
+          "package_name": "com.example.diffa.kenangapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974659849784-38a7i5kthetb2hhh9l15297n2oumk9tu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diffa.kenangapplication",
+            "certificate_hash": "d886fa5b295686924c8ac95ab11c03076e0d8a9f"
+          }
+        },
+        {
+          "client_id": "974659849784-l2e7259sm7ng80i2kmur5tn91m359et4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADrx8tq8boDhtvT4vnTjFhYmPqRyln4tQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974659849784-l2e7259sm7ng80i2kmur5tn91m359et4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974659849784:android:a09d8302c597caaf",
+        "android_client_info": {
+          "package_name": "com.example.diffa.applicationcarorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974659849784-m5ais8j6o8dn2lb94iui2p4sq5henma7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diffa.applicationcaroorder",
+            "certificate_hash": "d886fa5b295686924c8ac95ab11c03076e0d8a9f"
+          }
+        },
+        {
+          "client_id": "974659849784-l2e7259sm7ng80i2kmur5tn91m359et4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADrx8tq8boDhtvT4vnTjFhYmPqRyln4tQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974659849784-l2e7259sm7ng80i2kmur5tn91m359et4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

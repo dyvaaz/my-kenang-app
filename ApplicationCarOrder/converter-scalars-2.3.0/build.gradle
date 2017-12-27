@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('converter-scalars-2.3.0.jar'))
